@@ -1,4 +1,4 @@
-#load the package
+# load the package
 require(rejustify)
 
 # login to rejustify - create a free account at rejustify.com/account

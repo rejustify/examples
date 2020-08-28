@@ -1,3 +1,7 @@
+# install rejustify package (if not installed)
+install.packages("remotes")
+remotes::install_github("rejustify/r-package")
+
 # load the package
 require(rejustify)
 
